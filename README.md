@@ -6,6 +6,26 @@ El proyecto no solo cubre las bases esenciales de enrutamiento y renderizado, si
 
 ---
 
+## 📸 Capturas
+
+### Login
+
+![Login](./docs/login.png)
+
+### Dashboard
+
+![Dashboard](./docs/dashboard.png)
+
+### Invoices
+
+![Invoices](./docs/dashboard-invoices.png)
+
+### Customers
+
+![Customers](./docs/dashboard-customers.png)
+
+---
+
 ## 🛠️ Tecnologías Core
 
 * **Framework:** Next.js (App Router)

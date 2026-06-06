@@ -22,7 +22,7 @@ export default function RootLayout({
             {/* Esto es parte del layout completo */}
             {children}
 
-            <footer className="py-10 flex justify-center items-center">Hecho con amor por la gente de vercel.</footer>
+            {/* <footer className="py-10 flex justify-center items-center">Hecho con amor por la gente de vercel.</footer> */}
          </body>
       </html>
    );
